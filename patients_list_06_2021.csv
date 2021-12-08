@@ -1,0 +1,38 @@
+Pat Code,Age at M.,Gender (Female),Easy_Diagnosis,Hist Diagnosis,WHO 2021,IDH,TERT,MGMT m?,1p/19q codel,CDKN2A/B hom.loss,G-FAP,ATRX loss,p53 expr,EGFR,Mib1,CD34
+Tumor_Patient_021,39,0,2,Rez. Diffuse Astrocytoma 2,Astrocytoma grade 2,IDH1,n,lm,n,n,,y,y,n,3,n
+Tumor_Patient_023,51,0,4,Glioblastoma 4,Astrocytoma grade 4,IDH1,C250T,hm,n,n,,n,y/n,y,n,
+Tumor_Patient_027,52,0,4,Glioblastoma 4,Astrocytoma grade 4,IDH1,C250T,mm,n,n,,y,y,y,,
+Tumor_Patient_030,47,1,4,Glioblastoma 4,Glioblastoma grade 4,no,,um,,,,y,n,y/n,,
+Tumor_Patient_031,46,1,3,Anaplastic Astrocytoma 3,Astrocytoma grade 3,IDH1,n,mm,n,n,,n,y,y,11,"a,p"
+Tumor_Patient_034,29,0,3,Anaplastic Astrocytoma 3,Astrocytoma grade 3,IDH1,n,m,n,n,,y,n,n,13,a
+Tumor_Patient_035,52,0,4,Glioblastoma 4 +new lesion,Glioblastoma grade 4,no,n,lm,,,,n,n,y/n,,
+Tumor_Patient_037,33,0,2,Diffuse Astrocytoma 2,Astrocytoma grade 2,IDH1,n,lm,n,n,,y,y,y,5.2,a
+Tumor_Patient_038,58,0,4,Glioblastoma 4,Glioblastoma grade 4,no,n,um,n,n,,n,n,n,24,"a,p"
+Tumor_Patient_039,77,1,2,Diffuse Astrocytoma 2,Astrocytoma grade 2,IDH1,n,mm,n,n,,y,y,n,4.6,n
+Tumor_Patient_040,34,1,3,Anaplastic Astrocytoma 3,Astrocytoma grade 3,no,n,m,n,n,,n,n,y/n,22,n
+Tumor_Patient_046,71,0,4,Glioblastoma 4,Glioblastoma grade 4,no,C228T,lm,,,,n,n,y,,
+Tumor_Patient_050,51,0,3, AnODG 3,Oligodendroglioma grade 3,IDH1,C228T,mm,y,n,,n,n,n,33,"a,p"
+Tumor_Patient_054,62,0,3,"Rez, Focal AnAC III",Astrocytoma grade 3,IDH1,n,mm,n,n,,y,y/n,y/n,15,a
+Tumor_Patient_055,30,1,4,Glioblastoma 4 (due to IDH WT),,no,n,m,n,y,,y,y,y,21.3,p
+Tumor_Patient_056,34,0,2,Grade 2 Diffuse astrocytoma maybe into anaplastic,Astrocytoma grade 2,IDH1 ,n,mm,n,n,,y,y/n,y/n,11,a
+Tumor_Patient_057,56,0,3, Rez. AnODG 3,Oligodendroglioma grade 3,IDH1,,mm,y,y,,y,n,y,10-20,y
+Tumor_Patient_058,61,0,4,Glioblastoma 4,Glioblastoma grade 4,no,,lm,,,,n,,y/n,part,a
+Tumor_Patient_059,60,0,4,prev Gliosarcoma4,Glioblastoma grade 4,no,C250T,m,n,,,n,y/n,y/n,18,n
+Tumor_Patient_062,28,1,3,Anaplastic Astrocytoma 3,Astrocytoma grade 3,IDH1,n,m,n,n,,n,y,y/n,85,
+Tumor_Patient_063,62,0,4,Rez. Glioblastoma 4,Glioblastoma grade 4,no,,m,,,,y,y,y/n,,p
+Tumor_Patient_065,50,1,2,Oligodendroglioma 2,Oligodendroglioma grade 2,IDH1,,,,,,n,n,n,3,n
+Tumor_Patient_066,38,1,2,Oligodendroglioma 2,Oligodendroglioma grade 2,IDH1,n,m,y,n,,n,n,n,2,n
+Tumor_Patient_067,61,0,2,Oligodendroglioma 2,Oligodendroglioma grade 2,IDH1,C250T,m,y,n,,n,n,y,12 u 43,n
+Tumor_Patient_068,77,1,4,Glioblastoma 4,Glioblastoma grade 4,no,,,,,,n,y,y,,
+Tumor_Patient_073,33,0,2,Rez. Diffuse Astrocytoma 2,Astrocytoma grade 2,IDH1,n,um,n,n,,y,y/n,y,2,n
+Tumor_Patient_074,75,1,4,Glioblastoma 4,Glioblastoma grade 4,no,,um,,,,n,y,y,,
+Tumor_Patient_078,58,0,3,Rez. Anaplastic Astrocytoma 3,Glioblastoma grade 4,no,,um,,,,,,,,
+Tumor_Patient_081,57,1,3,Oligoastrocytoma II-III,Oligodendroglioma grade 3,,,,,,,,,,,
+Tumor_Patient_084,40,0,3,Gemistocytic AZ 3,Astrocytoma grade 3,IDH1,n,mm,n,n,,y,y,y/n,13,e
+Tumor_Patient_086,58,0,4,Glioblastoma 4,Glioblastoma grade 4,no,,,,,,n,y,n,,
+Tumor_Patient_091,27,1,4,Sek GBM,Astrocytoma grade 4,IDH1,n,lm,,,,y,y,y/n,,
+Tumor_Patient_093,48,1,2,LGG?,,,,,,,,,,,,
+Tumor_Patient_096,72,0,4,Glioblastoma 4,Glioblastoma grade 4,no,C228T,um,n,y,,,,,,
+Tumor_Patient_098,26,1,4,Anaplastic Astrocytoma 2-3,Astrocytoma grade 4,IDH1,n,lm,n,y,,y,y,y,12,
+Tumor_Patient_100,59,0,4,Glioblastoma 4,Glioblastoma grade 4,no,,lm,,,,n,y,y,50,
+Tumor_Patient_104,46,1,4,Anaplastic Astrocytoma 3,Glioblastoma grade 4,no,n,um,n,y,,n,y,y,18,y
